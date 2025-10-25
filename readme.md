@@ -79,7 +79,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to reach out:
 
 - **Repository Owner**: [PixMusicaX](https://github.com/PixMusicaX)
-- **Email**: [support@example.com](mailto:pinakipps21@gmail.com)
+- **Email**: [pinakipps21](mailto:pinakipps21@gmail.com)
 
 ---
 
